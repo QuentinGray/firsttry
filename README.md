@@ -34,9 +34,9 @@ images below
 [Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 
-Blockquotes
+# Blockquotes
 
-Below add the block of text as a blockquote
+**Below add the block of text as a blockquote**
 
 >"Hey today I played a bunch of nopixel, woo."
 
@@ -72,21 +72,21 @@ Lists(Italics, Bold and links work)
  * Thursday
  * Friday
  
-1. Crack three eggs over a bowl.
+1. **_Crack three eggs over a bowl._**
 
  Now, you're going to want to crack the eggs in such a way that you don't make a mess.
 
  If you _do_ make a mess, use a towel to clean it up!
 
-2. Pour a gallon of milk into the bowl.
+2. **_Pour a gallon of milk into the bowl._**
 
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
-3. Rub the salmon vigorously with butter.
+3. **_Rub the salmon vigorously with butter._**
 
    By "vigorous," we mean a strictly vertical motion. Julia Child once quipped:
    > Up and down and all around, that's how butter on salmon goes.
-4. Drop the salmon into the egg-milk bowl.
+4. **_Drop the salmon into the egg-milk bowl._**
 
    Here are some techniques on salmon-dropping:
 
